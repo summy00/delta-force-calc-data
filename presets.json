@@ -1,0 +1,14 @@
+{
+  "M249轻机枪 · 5.56x45mm M855": {
+    "flesh_dmg": 30,
+    "armor_dmg": 38,
+    "fire_rate": 858,
+    "pen_level": 3,
+    "bullet_mod": 1,
+    "dist_threshold": 40,
+    "mid_decay": 0.9,
+    "far_decay": "0.75",
+    "dist_threshold2": "65",
+    "ammo_sub": "穿透等级 3级 · 护甲衰减水平 中 · 基础伤害比例 100%"
+  }
+}
